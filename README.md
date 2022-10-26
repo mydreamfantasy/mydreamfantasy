@@ -1,4 +1,5 @@
-<img src="" alt="Hi! I am Mamaeva Anastasiya. Frontend developer based in Moscow."/>
+
+<p>Hi! I am Mamaeva Anastasiya. Frontend developer based in Moscow.</p>
 
 <p>
   Welcome to my GitHub page!<br>
@@ -38,6 +39,8 @@
 **mydreamfantasy/mydreamfantasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+<img src="" alt="Hi! I am Mamaeva Anastasiya. Frontend developer based in Moscow."/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
