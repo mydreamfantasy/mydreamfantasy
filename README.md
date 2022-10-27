@@ -1,5 +1,5 @@
 
-<p>Hi! I am Mamaeva Anastasia. Frontend developer based in Moscow.</p>
+## :wave: Hi! I am Mamaeva Anastasia. Frontend developer based in Moscow.    
 
 <p>
   Welcome to my GitHub page!<br>
