@@ -26,6 +26,7 @@
 | [Sedona](https://github.com/mydreamfantasy/sedona) | Simple fixed site for tourist town | HTML, CSS, JavaScript |
 | [Cat Energy](https://github.com/mydreamfantasy/cat-energy) | Adaptive site for online store of cat food| HTML, SCSS, JavaScript, Gulp |
 | [Keksobooking](https://github.com/mydreamfantasy/2044447-keksobooking-27) | Simple "Booking"-like site, where you can post ads for renting real estate | Vanilla JavaScript (ES6), Leaflet.js |
+| [Kekstagram](https://github.com/mydreamfantasy/kekstagram) | Simple "Stagram"-like site, where you can post photos and watch photos of other users| Vanilla JavaScript (ES6) |
 
 <br>
 
