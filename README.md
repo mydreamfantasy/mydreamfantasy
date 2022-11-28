@@ -9,7 +9,7 @@
 </p>
 
 ### 🛠 My tech stack:
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+  ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 - **Frontend:** HTML5, CSS, JavaScript (ES6+);
 - **Styling:** CSS/SCSS, CSS modules;
 - **Code bundlers:** Gulp;
