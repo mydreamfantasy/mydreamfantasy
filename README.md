@@ -24,12 +24,12 @@
 
 | Project name | Description | Technologies  |
 | ------------ | ----------- | ------------- |
-| [Device](https://github.com/mydreamfantasy/device) | Simple fixed site for online gadgets store | HTML, CSS, JavaScript |
-| [Sedona](https://github.com/mydreamfantasy/sedona) | Simple fixed site for tourist town | HTML, CSS, JavaScript |
-| [Cat Energy](https://github.com/mydreamfantasy/cat-energy) | Adaptive site for online store of cat food| HTML, SCSS, JavaScript, Gulp |
+| [CinemaAddict](https://github.com/mydreamfantasy/cinemaddict) | Service for fans big movie, where you can write comments and make personal favorite list| Vanilla JavaScript (ES6), OOP, MVP, classes, Webpack |
 | [Keksobooking](https://github.com/mydreamfantasy/keksobooking) | Simple "Booking"-like site, where you can post ads for renting real estate | Vanilla JavaScript (ES6), Leaflet.js, noUiSlider.js|
 | [Kekstagram](https://github.com/mydreamfantasy/kekstagram) | Simple "Stagram"-like site, where you can post photos and watch photos of other users| Vanilla JavaScript (ES6), noUiSlider.js |
-| [CinemaAddict](https://github.com/mydreamfantasy/cinemaddict) | Service for fans big movie, where you can write comments and make personal favorite list| Vanilla JavaScript (ES6), OOP, MVP, classes, Webpack |
+| [Cat Energy](https://github.com/mydreamfantasy/cat-energy) | Adaptive site for online store of cat food| HTML, SCSS, JavaScript, Gulp |
+| [Device](https://github.com/mydreamfantasy/device) | Simple fixed site for online gadgets store | HTML, CSS, JavaScript |
+| [Sedona](https://github.com/mydreamfantasy/sedona) | Simple fixed site for tourist town | HTML, CSS, JavaScript |
 | [DomStroy](https://github.com/mydreamfantasy/DomStroy) | Pet-project. Adaptive site for online store of building company. Creating...| HTML, Vanilla JS, Swiper.js, Gulp. SCSS|
 
 <br>
