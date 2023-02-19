@@ -25,7 +25,7 @@
 
 | Project name | Description | Technologies  |
 | ------------ | ----------- | ------------- |
-| [React Pizza](https://github.com/mydreamfantasy/react-pizza-v2) | Service for order pizzas| React, TS, Redux Toolkit, Axios, ReactRouter, Webpack, CSS-Modules |
+| [React Pizza](https://github.com/mydreamfantasy/react-pizza-v2) | Service for ordering pizzas| React, TS, Redux Toolkit, Axios, ReactRouter, Webpack, CSS-Modules |
 | [CinemaAddict](https://github.com/mydreamfantasy/cinemaddict) | Service for fans big movie, where you can write comments and make personal favorite list| Vanilla JavaScript (ES6), OOP, MVP, classes, Webpack |
 | [Keksobooking](https://github.com/mydreamfantasy/keksobooking) | Simple "Booking"-like site, where you can post ads for renting real estate | Vanilla JavaScript (ES6), Leaflet.js, noUiSlider.js|
 | [Kekstagram](https://github.com/mydreamfantasy/kekstagram) | Simple "Stagram"-like site, where you can post photos and watch photos of other users| Vanilla JavaScript (ES6), noUiSlider.js |
