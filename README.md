@@ -24,14 +24,14 @@
 | Project name | Description | Technologies  | Show |
 | ------------ | ----------- | ------------- | ---- |
 | [Six Cities](https://github.com/mydreamfantasy/six-cities-simple) | Service for searching interesting places in six cities, you can have more features after log in| React, TS, Redux Toolkit, Axios, ReactRouter, Webpack, CSS-Modules |
-| [React Pizza](https://github.com/mydreamfantasy/react-pizza-v2) | Service for ordering pizzas| React, TS, Redux Toolkit, Axios, ReactRouter, Webpack, CSS-Modules | [Show here] (https://react-pizza-1r0xrdx7j-mydreamfantasy.vercel.app/) |
-| [CinemaAddict](https://github.com/mydreamfantasy/cinemaddict) | Service for fans big movie, where you can write comments and make personal favorite list| Vanilla JavaScript (ES6), OOP, MVP, classes, Webpack | [Show here] (https://cinemaddict-hrdwmbudj-mydreamfantasy.vercel.app/) |
-| [Keksobooking](https://github.com/mydreamfantasy/keksobooking) | Simple "Booking"-like site, where you can post ads for renting real estate | Vanilla JavaScript (ES6), Leaflet.js, noUiSlider.js| [Show here] (https://kekeksobooking.vercel.app/) |
-| [Kekstagram](https://github.com/mydreamfantasy/kekstagram) | Simple "Stagram"-like site, where you can post photos and watch photos of other users| Vanilla JavaScript (ES6), noUiSlider.js | [Show here] (https://kekstagram-inky.vercel.app/) |
+| [React Pizza](https://github.com/mydreamfantasy/react-pizza-v2) | Service for ordering pizzas| React, TS, Redux Toolkit, Axios, ReactRouter, Webpack, CSS-Modules | [Show here](https://react-pizza-1r0xrdx7j-mydreamfantasy.vercel.app/) |
+| [CinemaAddict](https://github.com/mydreamfantasy/cinemaddict) | Service for fans big movie, where you can write comments and make personal favorite list| Vanilla JavaScript (ES6), OOP, MVP, classes, Webpack | [Show here](https://cinemaddict-hrdwmbudj-mydreamfantasy.vercel.app/) |
+| [Keksobooking](https://github.com/mydreamfantasy/keksobooking) | Simple "Booking"-like site, where you can post ads for renting real estate | Vanilla JavaScript (ES6), Leaflet.js, noUiSlider.js| [Show here](https://kekeksobooking.vercel.app/) |
+| [Kekstagram](https://github.com/mydreamfantasy/kekstagram) | Simple "Stagram"-like site, where you can post photos and watch photos of other users| Vanilla JavaScript (ES6), noUiSlider.js | [Show here](https://kekstagram-inky.vercel.app/) |
 | [Cat Energy](https://github.com/mydreamfantasy/cat-energy) | Adaptive site for online store of cat food| HTML, SCSS, JavaScript, Gulp |
-| [Drink2Go](https://github.com/mydreamfantasy/coffee-2-go) | Adaptive site for online store of specialty coffee| HTML, SCSS, JavaScript, Gulp, Leaflet.js | [Show here] (https://coffee-2-h4k9euns9-mydreamfantasy.vercel.app/) |
-| [Device](https://github.com/mydreamfantasy/device) | Simple fixed site for online gadgets store | HTML, CSS, JavaScript | [Show here] (https://mydreamfantasy.github.io/device/) |
-| [Sedona](https://github.com/mydreamfantasy/sedona) | Simple fixed site for tourist town | HTML, CSS, JavaScript | [Show here] (https://mydreamfantasy.github.io/sedona/) |
+| [Drink2Go](https://github.com/mydreamfantasy/coffee-2-go) | Adaptive site for online store of specialty coffee| HTML, SCSS, JavaScript, Gulp, Leaflet.js | [Show here](https://coffee-2-h4k9euns9-mydreamfantasy.vercel.app/) |
+| [Device](https://github.com/mydreamfantasy/device) | Simple fixed site for online gadgets store | HTML, CSS, JavaScript | [Show here](https://mydreamfantasy.github.io/device/) |
+| [Sedona](https://github.com/mydreamfantasy/sedona) | Simple fixed site for tourist town | HTML, CSS, JavaScript | [Show here](https://mydreamfantasy.github.io/sedona/) |
 
 <br>
 
