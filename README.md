@@ -21,8 +21,8 @@
 
 ### 💻 Some of my training projects:
 
-| Project name | Description | Technologies  |
-| ------------ | ----------- | ------------- |
+| Project name | Description | Technologies  | Show |
+| ------------ | ----------- | ------------- | ---- |
 | [Six Cities](https://github.com/mydreamfantasy/six-cities-simple) | Service for searching interesting places in six cities, you can have more features after log in| React, TS, Redux Toolkit, Axios, ReactRouter, Webpack, CSS-Modules |
 | [React Pizza](https://github.com/mydreamfantasy/react-pizza-v2) | Service for ordering pizzas| React, TS, Redux Toolkit, Axios, ReactRouter, Webpack, CSS-Modules | [Show here] (https://react-pizza-1r0xrdx7j-mydreamfantasy.vercel.app/) |
 | [CinemaAddict](https://github.com/mydreamfantasy/cinemaddict) | Service for fans big movie, where you can write comments and make personal favorite list| Vanilla JavaScript (ES6), OOP, MVP, classes, Webpack | [Show here] (https://cinemaddict-hrdwmbudj-mydreamfantasy.vercel.app/) |
