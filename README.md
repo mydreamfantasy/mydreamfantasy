@@ -16,9 +16,6 @@
 - **UX/UI:** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 - **Test:** ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white);
 
-### 👨‍🎓 Currently learning:
-- ![style-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white),
-
 
 ### 💻 Some of my training projects:
 
